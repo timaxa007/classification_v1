@@ -1,0 +1,10 @@
+﻿
+classification.info=Ты %s.
+classification.none.name=никто
+classification.warrior.name=Воин
+classification.mage.name=Маг
+classification.rogue.name=Разбойник
+classification.priest.name=Жрец
+classification.druid.name=Друид
+commands.classification_gui.usage=/classification_gui
+commands.classification_set.usage=/classification_set <player> <tag> или /classification_set <player> <id> 

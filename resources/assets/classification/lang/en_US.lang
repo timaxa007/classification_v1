@@ -1,0 +1,10 @@
+
+classification.info=You are %s.
+classification.none.name=nobody
+classification.warrior.name=Warrior
+classification.mage.name=Mage
+classification.rogue.name=Rogue
+classification.priest.name=Priest
+classification.druid.name=Druid
+commands.classification_gui.usage=/classification_gui
+commands.classification_set.usage=/classification_set <player> <tag> or /classification_set <player> <id> 
